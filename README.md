@@ -69,7 +69,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snurdoqan&" alt="snurdoqan" /></p>
 
 ###
-![snake gif](https://github.com/snurdoqan/snurdoqan/blob/output/github-contribution-grid-snake.gif)
 
 <!---
 snurdoqan/snurdoqan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
